@@ -1,0 +1,6 @@
+{
+    "MypythonBT.MypythonBTInit|block": "掌控板初始化 名称为 [NAME]",
+    "MypythonBT.MypythonBTInitavAilable|block": "掌控板蓝牙有数据可读？",
+    "MypythonBT.MypythonBTInitRead|block": "掌控板 读数据",
+    "MypythonBT.MypythonBTInitWrite|block": "掌控板 写数据[STR]"
+}
