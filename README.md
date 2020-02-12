@@ -7,7 +7,7 @@ I2C OLED-2864 screen(测试)
 # 用户库教程
 
 
-教程链接：[Mind+官方文档](https://mindplus.dfrobot.com.cn/extensions-user).
+教程链接：[Mind+官方文档](https://github.com/jeff111203/ext.MypythonBT).
 
 ---------------------------------------------------------
 
